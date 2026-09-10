@@ -1,0 +1,4 @@
+pycryptodome>=3.20.0
+customtkinter>=6.0.0
+darkdetect>=0.8.0
+packaging>=24.0
