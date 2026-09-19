@@ -19,6 +19,16 @@ A Python-based educational project demonstrating **AES-256-GCM authenticated enc
 
 > 🧠 **Learn cryptography by understanding the design—not by reinventing production security.**
 
+## 🎨 Project Visual
+
+<p align="center">
+  <img src="./assets/project-draw.svg" alt="AES-256-GCM secure software architecture" width="100%" />
+</p>
+
+> **Visual:** User/GUI → application layer → crypto engine → authenticated output.
+
+---
+
 ## ✨ Highlights
 
 | 🔐 | Capability | Purpose |
