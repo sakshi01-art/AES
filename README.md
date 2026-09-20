@@ -152,3 +152,12 @@ Use this project only with data and systems you are authorized to work with.
 ⭐ **Learn secure. Build smart.** 🔐
 
 </div>
+
+
+---
+
+## 🔥 Latest Update — 20 September 2026
+
+- Refreshed the project documentation and presentation.
+- Kept the architecture and development roadmap clear for future modules.
+- Continuing practical implementation and incremental improvements.
