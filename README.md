@@ -169,3 +169,8 @@ Use this project only with data and systems you are authorized to work with.
 - Documented confidentiality, authentication, nonce handling, and testing priorities.
 - Continued the project as an educational secure-software implementation.
 
+## 🚀 Development Update — 22 September 2026
+
+- Clarified the educational focus on authenticated encryption and secure software design.
+- Highlighted testing, error handling, and safe key/nonce practices as the next development areas.
+- Kept production-security limitations clearly documented.
