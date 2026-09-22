@@ -161,3 +161,11 @@ Use this project only with data and systems you are authorized to work with.
 - Refreshed the project documentation and presentation.
 - Kept the architecture and development roadmap clear for future modules.
 - Continuing practical implementation and incremental improvements.
+
+
+## 🔥 Latest Update — 22 September 2026
+
+- Added AES-256-GCM design notes under `docs/`.
+- Documented confidentiality, authentication, nonce handling, and testing priorities.
+- Continued the project as an educational secure-software implementation.
+
