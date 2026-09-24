@@ -174,3 +174,11 @@ Use this project only with data and systems you are authorized to work with.
 - Clarified the educational focus on authenticated encryption and secure software design.
 - Highlighted testing, error handling, and safe key/nonce practices as the next development areas.
 - Kept production-security limitations clearly documented.
+
+---
+
+## 🚀 Development Update — 24 September 2026
+
+- Refined the authenticated-encryption learning roadmap.
+- Added clearer checkpoints for input validation, error handling, testing, and secure configuration.
+- Kept the implementation focused on learning AES-GCM concepts without presenting it as production security software.
